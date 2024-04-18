@@ -1,0 +1,32 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+button {
+    width: 100%;
+    border: none;
+}
+
+#all-clear{
+    background-color: red;
+    color: white;
+}
+
+#clear{
+    background-color: blue;
+    color: white;
+}
+
+.operators{
+    background-color: orange;
+}
+
+#assignment{
+    background-color: green;
+    color: white;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
